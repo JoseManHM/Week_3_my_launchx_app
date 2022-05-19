@@ -1,2 +1,2 @@
-#Add package json to gitignore
-/package.json
+#Ignore node_modules
+**/node_modules
