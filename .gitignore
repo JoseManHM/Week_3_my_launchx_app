@@ -1,0 +1,2 @@
+#Add package json to gitignore
+/package.json
